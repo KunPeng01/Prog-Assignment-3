@@ -59,12 +59,7 @@ class Bank:
             else:
                 return 
 
-class Account:
-    def SavingsAccount(self,a):
+#class Account:
+    #def SavingsAccount(self,a):
         
         
-
-
-
-
-
